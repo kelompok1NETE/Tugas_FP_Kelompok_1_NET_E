@@ -1,0 +1,250 @@
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\keliling indonesia.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.exe
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.pdb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.exe
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.pdb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button keluar.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button main.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle.xnb
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.jpg
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\keliling indonesia.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button keluar.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button main.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.jpg
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.exe
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.pdb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.csprojResolveAssemblyReference.cache
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.exe
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.pdb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\berhenti.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\Lanjutkan.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\ulang.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\about.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\highScore.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle kecil.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\gray.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat background.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia background.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur background.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta background.xnb
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\siap.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\keliling indonesia.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button keluar.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button main.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\Lanjutkan.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\ulang.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle kecil.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\gray.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur background.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta background.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat background.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia background.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\siap.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\about.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\highScore.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.jpg
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.exe
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Keliling Indonesia.pdb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.exe
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\Keliling Indonesia.pdb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\10.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\11.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\13.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\14.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\15.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\16.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\17.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\18.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\19.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\20.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\21.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\23.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\24.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\25.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\10.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\11.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\13.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\14.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\15.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\16.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\17.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\18.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\19.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\20.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\21.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\22.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\23.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\24.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\25.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\10.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\11.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\13.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\14.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\15.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\16.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\17.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\18.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\19.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\20.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\21.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\22.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\23.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\24.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\25.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\10.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\11.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\13.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\14.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\15.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\16.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\17.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\18.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\19.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\20.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\21.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\22.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\23.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\24.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\25.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\10.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\11.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\13.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\14.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\15.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\16.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\17.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\18.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\19.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\20.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\21.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\22.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\23.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\24.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\25.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\move.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\1.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\2.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\4.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\5.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\6.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\7.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\8.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\9.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button nilai tertinggi.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button tentang.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button kembali.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button berhenti.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button lanjut.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\counter pindah.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tentang.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\nilai tertinggi.xnb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\berhasil.xnb

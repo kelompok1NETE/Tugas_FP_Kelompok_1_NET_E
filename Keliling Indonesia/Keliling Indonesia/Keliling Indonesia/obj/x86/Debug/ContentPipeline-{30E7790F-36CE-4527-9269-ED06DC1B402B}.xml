@@ -1,0 +1,1838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>picture\keliling indonesia.jpg</Source>
+      <Name>picture\keliling indonesia</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\keliling indonesia.xnb</Output>
+      <Time>2014-06-17T10:26:49.6945059+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button keluar.png</Source>
+      <Name>picture\button keluar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button keluar.xnb</Output>
+      <Time>2014-06-15T18:36:03.2489023+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button main.png</Source>
+      <Name>picture\button main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button main.xnb</Output>
+      <Time>2014-06-17T10:13:44.2705641+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\candi kuning.jpg</Source>
+      <Name>picture\candi kuning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi kuning.xnb</Output>
+      <Time>2014-06-15T23:03:17.6216765+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\candi borobudur.jpg</Source>
+      <Name>picture\candi borobudur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur.xnb</Output>
+      <Time>2014-06-15T23:03:31.0096077+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\pantai kuta.jpg</Source>
+      <Name>picture\pantai kuta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta.xnb</Output>
+      <Time>2014-06-15T23:03:43.0676539+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\pantai raja ampat.jpg</Source>
+      <Name>picture\pantai raja ampat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat.xnb</Output>
+      <Time>2014-06-15T23:03:56.6557209+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\taman safari indonesia.jpg</Source>
+      <Name>picture\taman safari indonesia</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia.xnb</Output>
+      <Time>2014-06-15T23:04:18.0279824+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\tulisan puzzle.png</Source>
+      <Name>picture\tulisan puzzle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle.xnb</Output>
+      <Time>2014-06-17T10:14:48.2082541+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\Lanjutkan.png</Source>
+      <Name>picture\Lanjutkan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\Lanjutkan.xnb</Output>
+      <Time>2014-06-15T18:23:13.3872237+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\ulang.png</Source>
+      <Name>picture\ulang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\ulang.xnb</Output>
+      <Time>2014-06-15T18:23:13.3892267+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\gray.jpg</Source>
+      <Name>picture\gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\gray.xnb</Output>
+      <Time>2014-06-15T19:39:06.6713069+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\candi borobudur background.jpg</Source>
+      <Name>picture\candi borobudur background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\candi borobudur background.xnb</Output>
+      <Time>2014-06-12T10:28:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\pantai kuta background.jpg</Source>
+      <Name>picture\pantai kuta background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai kuta background.xnb</Output>
+      <Time>2014-06-12T10:28:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\pantai raja ampat background.jpg</Source>
+      <Name>picture\pantai raja ampat background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\pantai raja ampat background.xnb</Output>
+      <Time>2014-06-12T10:28:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\taman safari indonesia background.jpg</Source>
+      <Name>picture\taman safari indonesia background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\taman safari indonesia background.xnb</Output>
+      <Time>2014-06-17T10:33:10.1575666+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\siap.jpg</Source>
+      <Name>picture\siap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\siap.xnb</Output>
+      <Time>2014-06-15T22:38:58.2605411+09:00</Time>
+    </Item>
+    <Item>
+      <Source>about.spritefont</Source>
+      <Name>about</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\about.xnb</Output>
+      <Time>2014-06-15T19:05:08.1165232+09:00</Time>
+    </Item>
+    <Item>
+      <Source>highScore.spritefont</Source>
+      <Name>highScore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\highScore.xnb</Output>
+      <Time>2014-06-17T16:43:41.5894319+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\1.jpg</Source>
+      <Name>puzzle\taman safari indonesia\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\1.xnb</Output>
+      <Time>2014-06-17T04:14:25.2424176+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\10.jpg</Source>
+      <Name>puzzle\taman safari indonesia\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\10.xnb</Output>
+      <Time>2014-06-17T04:14:25.3154218+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\11.jpg</Source>
+      <Name>puzzle\taman safari indonesia\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\11.xnb</Output>
+      <Time>2014-06-17T04:14:25.3234222+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\12.jpg</Source>
+      <Name>puzzle\taman safari indonesia\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\12.xnb</Output>
+      <Time>2014-06-17T04:14:25.3324227+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\13.jpg</Source>
+      <Name>puzzle\taman safari indonesia\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\13.xnb</Output>
+      <Time>2014-06-17T04:14:25.336423+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\14.jpg</Source>
+      <Name>puzzle\taman safari indonesia\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\14.xnb</Output>
+      <Time>2014-06-17T04:14:25.3414233+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\15.jpg</Source>
+      <Name>puzzle\taman safari indonesia\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\15.xnb</Output>
+      <Time>2014-06-17T04:14:25.3454235+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\16.jpg</Source>
+      <Name>puzzle\taman safari indonesia\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\16.xnb</Output>
+      <Time>2014-06-17T04:14:25.3494237+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\17.jpg</Source>
+      <Name>puzzle\taman safari indonesia\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\17.xnb</Output>
+      <Time>2014-06-17T04:14:25.354424+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\18.jpg</Source>
+      <Name>puzzle\taman safari indonesia\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\18.xnb</Output>
+      <Time>2014-06-17T04:14:25.3604243+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\19.jpg</Source>
+      <Name>puzzle\taman safari indonesia\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\19.xnb</Output>
+      <Time>2014-06-17T04:14:25.3654246+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\2.jpg</Source>
+      <Name>puzzle\taman safari indonesia\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\2.xnb</Output>
+      <Time>2014-06-17T04:14:25.2474179+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\20.jpg</Source>
+      <Name>puzzle\taman safari indonesia\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\20.xnb</Output>
+      <Time>2014-06-17T04:14:25.3694249+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\21.jpg</Source>
+      <Name>puzzle\taman safari indonesia\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\21.xnb</Output>
+      <Time>2014-06-17T04:14:25.3744251+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\23.jpg</Source>
+      <Name>puzzle\taman safari indonesia\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\23.xnb</Output>
+      <Time>2014-06-17T04:14:25.3864258+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\24.jpg</Source>
+      <Name>puzzle\taman safari indonesia\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\24.xnb</Output>
+      <Time>2014-06-17T04:14:25.3904261+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\25.jpg</Source>
+      <Name>puzzle\taman safari indonesia\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\25.xnb</Output>
+      <Time>2014-06-17T04:14:25.3954263+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\3.jpg</Source>
+      <Name>puzzle\taman safari indonesia\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\3.xnb</Output>
+      <Time>2014-06-17T04:14:25.2524182+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\4.jpg</Source>
+      <Name>puzzle\taman safari indonesia\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\4.xnb</Output>
+      <Time>2014-06-17T04:14:25.2564184+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\5.jpg</Source>
+      <Name>puzzle\taman safari indonesia\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\5.xnb</Output>
+      <Time>2014-06-17T04:14:25.2614187+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\6.jpg</Source>
+      <Name>puzzle\taman safari indonesia\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\6.xnb</Output>
+      <Time>2014-06-17T04:14:25.2654189+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\7.jpg</Source>
+      <Name>puzzle\taman safari indonesia\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\7.xnb</Output>
+      <Time>2014-06-17T04:14:25.2694191+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\8.jpg</Source>
+      <Name>puzzle\taman safari indonesia\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\8.xnb</Output>
+      <Time>2014-06-17T04:14:25.2744194+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\9.jpg</Source>
+      <Name>puzzle\taman safari indonesia\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\9.xnb</Output>
+      <Time>2014-06-17T04:14:25.3064213+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\1.jpg</Source>
+      <Name>puzzle\candi borobudur\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\1.xnb</Output>
+      <Time>2014-06-17T04:22:51.0583486+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\10.jpg</Source>
+      <Name>puzzle\candi borobudur\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\10.xnb</Output>
+      <Time>2014-06-17T04:22:51.2123574+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\11.jpg</Source>
+      <Name>puzzle\candi borobudur\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\11.xnb</Output>
+      <Time>2014-06-17T04:22:51.2173577+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\12.jpg</Source>
+      <Name>puzzle\candi borobudur\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\12.xnb</Output>
+      <Time>2014-06-17T04:22:51.222358+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\13.jpg</Source>
+      <Name>puzzle\candi borobudur\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\13.xnb</Output>
+      <Time>2014-06-17T04:22:51.2273583+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\14.jpg</Source>
+      <Name>puzzle\candi borobudur\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\14.xnb</Output>
+      <Time>2014-06-17T04:22:51.2323586+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\15.jpg</Source>
+      <Name>puzzle\candi borobudur\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\15.xnb</Output>
+      <Time>2014-06-17T04:22:51.2373589+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\16.jpg</Source>
+      <Name>puzzle\candi borobudur\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\16.xnb</Output>
+      <Time>2014-06-17T04:22:51.2413591+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\17.jpg</Source>
+      <Name>puzzle\candi borobudur\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\17.xnb</Output>
+      <Time>2014-06-17T04:22:51.2453593+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\18.jpg</Source>
+      <Name>puzzle\candi borobudur\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\18.xnb</Output>
+      <Time>2014-06-17T04:22:51.2503596+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\19.jpg</Source>
+      <Name>puzzle\candi borobudur\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\19.xnb</Output>
+      <Time>2014-06-17T04:22:51.2553599+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\2.jpg</Source>
+      <Name>puzzle\candi borobudur\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\2.xnb</Output>
+      <Time>2014-06-17T04:22:51.0633489+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\20.jpg</Source>
+      <Name>puzzle\candi borobudur\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\20.xnb</Output>
+      <Time>2014-06-17T04:22:51.2903619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\21.jpg</Source>
+      <Name>puzzle\candi borobudur\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\21.xnb</Output>
+      <Time>2014-06-17T04:22:51.3143633+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\22.jpg</Source>
+      <Name>puzzle\candi borobudur\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\22.xnb</Output>
+      <Time>2014-06-17T04:22:51.3183635+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\23.jpg</Source>
+      <Name>puzzle\candi borobudur\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\23.xnb</Output>
+      <Time>2014-06-17T04:22:51.3233638+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\24.jpg</Source>
+      <Name>puzzle\candi borobudur\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\24.xnb</Output>
+      <Time>2014-06-17T04:22:51.3433649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\25.jpg</Source>
+      <Name>puzzle\candi borobudur\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\25.xnb</Output>
+      <Time>2014-06-17T04:22:51.3473651+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\3.jpg</Source>
+      <Name>puzzle\candi borobudur\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\3.xnb</Output>
+      <Time>2014-06-17T04:22:51.0683492+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\4.jpg</Source>
+      <Name>puzzle\candi borobudur\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\4.xnb</Output>
+      <Time>2014-06-17T04:22:51.0733495+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\5.jpg</Source>
+      <Name>puzzle\candi borobudur\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\5.xnb</Output>
+      <Time>2014-06-17T04:22:51.0783498+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\6.jpg</Source>
+      <Name>puzzle\candi borobudur\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\6.xnb</Output>
+      <Time>2014-06-17T04:22:51.1473537+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\7.jpg</Source>
+      <Name>puzzle\candi borobudur\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\7.xnb</Output>
+      <Time>2014-06-17T04:22:51.1793555+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\8.jpg</Source>
+      <Name>puzzle\candi borobudur\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\8.xnb</Output>
+      <Time>2014-06-17T04:22:51.2023568+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\9.jpg</Source>
+      <Name>puzzle\candi borobudur\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\9.xnb</Output>
+      <Time>2014-06-17T04:22:51.2073571+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\1.jpg</Source>
+      <Name>puzzle\candi kuning\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\1.xnb</Output>
+      <Time>2014-06-17T04:27:33.1334824+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\10.jpg</Source>
+      <Name>puzzle\candi kuning\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\10.xnb</Output>
+      <Time>2014-06-17T04:27:33.2774906+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\11.jpg</Source>
+      <Name>puzzle\candi kuning\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\11.xnb</Output>
+      <Time>2014-06-17T04:27:33.2874912+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\12.jpg</Source>
+      <Name>puzzle\candi kuning\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\12.xnb</Output>
+      <Time>2014-06-17T04:27:33.2964917+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\13.jpg</Source>
+      <Name>puzzle\candi kuning\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\13.xnb</Output>
+      <Time>2014-06-17T04:27:33.3054922+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\14.jpg</Source>
+      <Name>puzzle\candi kuning\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\14.xnb</Output>
+      <Time>2014-06-17T04:27:33.3264934+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\15.jpg</Source>
+      <Name>puzzle\candi kuning\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\15.xnb</Output>
+      <Time>2014-06-17T04:27:33.3314937+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\16.jpg</Source>
+      <Name>puzzle\candi kuning\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\16.xnb</Output>
+      <Time>2014-06-17T04:27:33.3354939+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\17.jpg</Source>
+      <Name>puzzle\candi kuning\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\17.xnb</Output>
+      <Time>2014-06-17T04:27:33.3394942+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\18.jpg</Source>
+      <Name>puzzle\candi kuning\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\18.xnb</Output>
+      <Time>2014-06-17T04:27:33.3444945+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\19.jpg</Source>
+      <Name>puzzle\candi kuning\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\19.xnb</Output>
+      <Time>2014-06-17T04:27:33.3684958+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\2.jpg</Source>
+      <Name>puzzle\candi kuning\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\2.xnb</Output>
+      <Time>2014-06-17T04:27:33.1404828+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\20.jpg</Source>
+      <Name>puzzle\candi kuning\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\20.xnb</Output>
+      <Time>2014-06-17T04:27:33.3824966+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\21.jpg</Source>
+      <Name>puzzle\candi kuning\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\21.xnb</Output>
+      <Time>2014-06-17T04:27:33.3874969+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\22.jpg</Source>
+      <Name>puzzle\candi kuning\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\22.xnb</Output>
+      <Time>2014-06-17T04:27:33.3924972+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\23.jpg</Source>
+      <Name>puzzle\candi kuning\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\23.xnb</Output>
+      <Time>2014-06-17T04:27:33.3964974+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\24.jpg</Source>
+      <Name>puzzle\candi kuning\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\24.xnb</Output>
+      <Time>2014-06-17T04:27:33.4154985+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\25.jpg</Source>
+      <Name>puzzle\candi kuning\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\25.xnb</Output>
+      <Time>2014-06-17T04:27:33.4324995+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\3.jpg</Source>
+      <Name>puzzle\candi kuning\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\3.xnb</Output>
+      <Time>2014-06-17T04:27:33.1714846+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\4.jpg</Source>
+      <Name>puzzle\candi kuning\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\4.xnb</Output>
+      <Time>2014-06-17T04:27:33.1934858+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\5.jpg</Source>
+      <Name>puzzle\candi kuning\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\5.xnb</Output>
+      <Time>2014-06-17T04:27:33.1984861+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\6.jpg</Source>
+      <Name>puzzle\candi kuning\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\6.xnb</Output>
+      <Time>2014-06-17T04:27:33.2044864+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\7.jpg</Source>
+      <Name>puzzle\candi kuning\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\7.xnb</Output>
+      <Time>2014-06-17T04:27:33.2224875+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\8.jpg</Source>
+      <Name>puzzle\candi kuning\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\8.xnb</Output>
+      <Time>2014-06-17T04:27:33.2414886+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\9.jpg</Source>
+      <Name>puzzle\candi kuning\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\9.xnb</Output>
+      <Time>2014-06-17T04:27:33.2474889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\1.jpg</Source>
+      <Name>puzzle\pantai raja ampat\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\1.xnb</Output>
+      <Time>2014-06-17T04:33:25.5316384+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\10.jpg</Source>
+      <Name>puzzle\pantai raja ampat\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\10.xnb</Output>
+      <Time>2014-06-17T04:33:25.6156432+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\11.jpg</Source>
+      <Name>puzzle\pantai raja ampat\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\11.xnb</Output>
+      <Time>2014-06-17T04:33:25.6206435+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\12.jpg</Source>
+      <Name>puzzle\pantai raja ampat\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\12.xnb</Output>
+      <Time>2014-06-17T04:33:25.6256438+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\13.jpg</Source>
+      <Name>puzzle\pantai raja ampat\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\13.xnb</Output>
+      <Time>2014-06-17T04:33:25.629644+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\14.jpg</Source>
+      <Name>puzzle\pantai raja ampat\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\14.xnb</Output>
+      <Time>2014-06-17T04:33:25.6346443+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\15.jpg</Source>
+      <Name>puzzle\pantai raja ampat\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\15.xnb</Output>
+      <Time>2014-06-17T04:33:25.6396446+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\16.jpg</Source>
+      <Name>puzzle\pantai raja ampat\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\16.xnb</Output>
+      <Time>2014-06-17T04:33:25.6446449+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\17.jpg</Source>
+      <Name>puzzle\pantai raja ampat\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\17.xnb</Output>
+      <Time>2014-06-17T04:33:25.6486451+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\18.jpg</Source>
+      <Name>puzzle\pantai raja ampat\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\18.xnb</Output>
+      <Time>2014-06-17T04:33:25.6536454+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\19.jpg</Source>
+      <Name>puzzle\pantai raja ampat\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\19.xnb</Output>
+      <Time>2014-06-17T04:33:25.6586457+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\2.jpg</Source>
+      <Name>puzzle\pantai raja ampat\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\2.xnb</Output>
+      <Time>2014-06-17T04:33:25.5366387+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\20.jpg</Source>
+      <Name>puzzle\pantai raja ampat\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\20.xnb</Output>
+      <Time>2014-06-17T04:33:25.663646+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\21.jpg</Source>
+      <Name>puzzle\pantai raja ampat\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\21.xnb</Output>
+      <Time>2014-06-17T04:33:25.6676462+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\22.jpg</Source>
+      <Name>puzzle\pantai raja ampat\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\22.xnb</Output>
+      <Time>2014-06-17T04:33:25.6736465+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\23.jpg</Source>
+      <Name>puzzle\pantai raja ampat\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\23.xnb</Output>
+      <Time>2014-06-17T04:33:25.6786468+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\24.jpg</Source>
+      <Name>puzzle\pantai raja ampat\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\24.xnb</Output>
+      <Time>2014-06-17T04:33:25.682647+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\25.jpg</Source>
+      <Name>puzzle\pantai raja ampat\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\25.xnb</Output>
+      <Time>2014-06-17T04:33:25.6876473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\3.jpg</Source>
+      <Name>puzzle\pantai raja ampat\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\3.xnb</Output>
+      <Time>2014-06-17T04:33:25.542639+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\4.jpg</Source>
+      <Name>puzzle\pantai raja ampat\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\4.xnb</Output>
+      <Time>2014-06-17T04:33:25.5756409+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\5.jpg</Source>
+      <Name>puzzle\pantai raja ampat\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\5.xnb</Output>
+      <Time>2014-06-17T04:33:25.5906418+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\6.jpg</Source>
+      <Name>puzzle\pantai raja ampat\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\6.xnb</Output>
+      <Time>2014-06-17T04:33:25.5956421+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\7.jpg</Source>
+      <Name>puzzle\pantai raja ampat\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\7.xnb</Output>
+      <Time>2014-06-17T04:33:25.6016424+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\8.jpg</Source>
+      <Name>puzzle\pantai raja ampat\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\8.xnb</Output>
+      <Time>2014-06-17T04:33:25.6066427+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\9.jpg</Source>
+      <Name>puzzle\pantai raja ampat\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\9.xnb</Output>
+      <Time>2014-06-17T04:33:25.6106429+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\1.jpg</Source>
+      <Name>puzzle\pantai kuta\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\1.xnb</Output>
+      <Time>2014-06-17T04:38:43.3958192+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\10.jpg</Source>
+      <Name>puzzle\pantai kuta\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\10.xnb</Output>
+      <Time>2014-06-17T04:38:43.4838242+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\11.jpg</Source>
+      <Name>puzzle\pantai kuta\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\11.xnb</Output>
+      <Time>2014-06-17T04:38:43.4888245+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\12.jpg</Source>
+      <Name>puzzle\pantai kuta\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\12.xnb</Output>
+      <Time>2014-06-17T04:38:43.4938248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\13.jpg</Source>
+      <Name>puzzle\pantai kuta\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\13.xnb</Output>
+      <Time>2014-06-17T04:38:43.497825+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\14.jpg</Source>
+      <Name>puzzle\pantai kuta\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\14.xnb</Output>
+      <Time>2014-06-17T04:38:43.5028253+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\15.jpg</Source>
+      <Name>puzzle\pantai kuta\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\15.xnb</Output>
+      <Time>2014-06-17T04:38:43.5078256+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\16.jpg</Source>
+      <Name>puzzle\pantai kuta\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\16.xnb</Output>
+      <Time>2014-06-17T04:38:43.5128259+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\17.jpg</Source>
+      <Name>puzzle\pantai kuta\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\17.xnb</Output>
+      <Time>2014-06-17T04:38:43.5178262+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\18.jpg</Source>
+      <Name>puzzle\pantai kuta\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\18.xnb</Output>
+      <Time>2014-06-17T04:38:43.5248266+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\19.jpg</Source>
+      <Name>puzzle\pantai kuta\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\19.xnb</Output>
+      <Time>2014-06-17T04:38:43.5438277+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\2.jpg</Source>
+      <Name>puzzle\pantai kuta\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\2.xnb</Output>
+      <Time>2014-06-17T04:38:43.4008195+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\20.jpg</Source>
+      <Name>puzzle\pantai kuta\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\20.xnb</Output>
+      <Time>2014-06-17T04:38:43.549828+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\21.jpg</Source>
+      <Name>puzzle\pantai kuta\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\21.xnb</Output>
+      <Time>2014-06-17T04:38:43.5548283+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\22.jpg</Source>
+      <Name>puzzle\pantai kuta\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\22.xnb</Output>
+      <Time>2014-06-17T04:38:43.5598286+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\23.jpg</Source>
+      <Name>puzzle\pantai kuta\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\23.xnb</Output>
+      <Time>2014-06-17T04:38:43.5658289+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\24.jpg</Source>
+      <Name>puzzle\pantai kuta\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\24.xnb</Output>
+      <Time>2014-06-17T04:38:43.5708292+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\25.jpg</Source>
+      <Name>puzzle\pantai kuta\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\25.xnb</Output>
+      <Time>2014-06-17T04:38:43.5758295+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\3.jpg</Source>
+      <Name>puzzle\pantai kuta\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\3.xnb</Output>
+      <Time>2014-06-17T04:38:43.4058198+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\4.jpg</Source>
+      <Name>puzzle\pantai kuta\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\4.xnb</Output>
+      <Time>2014-06-17T04:38:43.4118201+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\5.jpg</Source>
+      <Name>puzzle\pantai kuta\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\5.xnb</Output>
+      <Time>2014-06-17T04:38:43.4168204+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\6.jpg</Source>
+      <Name>puzzle\pantai kuta\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\6.xnb</Output>
+      <Time>2014-06-17T04:38:43.4478222+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\7.jpg</Source>
+      <Name>puzzle\pantai kuta\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\7.xnb</Output>
+      <Time>2014-06-17T04:38:43.4528225+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\8.jpg</Source>
+      <Name>puzzle\pantai kuta\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\8.xnb</Output>
+      <Time>2014-06-17T04:38:43.4588228+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\9.jpg</Source>
+      <Name>puzzle\pantai kuta\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\9.xnb</Output>
+      <Time>2014-06-17T04:38:43.4778239+09:00</Time>
+    </Item>
+    <Item>
+      <Source>move.spritefont</Source>
+      <Name>move</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\move.xnb</Output>
+      <Time>2014-06-17T14:13:46.3404171+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\1.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\1.xnb</Output>
+      <Time>2014-06-17T14:20:16.884755+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\2.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\2.xnb</Output>
+      <Time>2014-06-17T14:20:16.9217571+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\3.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\3.xnb</Output>
+      <Time>2014-06-17T14:20:16.9277574+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\4.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\4.xnb</Output>
+      <Time>2014-06-17T14:20:16.9347578+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\5.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\5.xnb</Output>
+      <Time>2014-06-17T14:20:16.9407582+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\6.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\6.xnb</Output>
+      <Time>2014-06-17T14:20:16.9467585+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\7.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\7.xnb</Output>
+      <Time>2014-06-17T14:20:16.9687598+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\8.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\8.xnb</Output>
+      <Time>2014-06-17T14:20:16.97376+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi borobudur\level 1\9.jpg</Source>
+      <Name>puzzle\candi borobudur\level 1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi borobudur\level 1\9.xnb</Output>
+      <Time>2014-06-17T14:20:16.9777603+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\1.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\1.xnb</Output>
+      <Time>2014-06-17T14:22:44.4091929+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\2.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\2.xnb</Output>
+      <Time>2014-06-17T14:22:44.4141932+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\3.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\3.xnb</Output>
+      <Time>2014-06-17T14:22:44.4191934+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\4.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\4.xnb</Output>
+      <Time>2014-06-17T14:22:44.4241937+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\5.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\5.xnb</Output>
+      <Time>2014-06-17T14:22:44.428194+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\6.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\6.xnb</Output>
+      <Time>2014-06-17T14:22:44.4341943+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\7.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\7.xnb</Output>
+      <Time>2014-06-17T14:22:44.4391946+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\8.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\8.xnb</Output>
+      <Time>2014-06-17T14:22:44.4451949+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\candi kuning\level 1\9.jpg</Source>
+      <Name>puzzle\candi kuning\level 1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\candi kuning\level 1\9.xnb</Output>
+      <Time>2014-06-17T14:22:44.4501952+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\1.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\1.xnb</Output>
+      <Time>2014-06-17T14:25:40.5692686+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\2.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\2.xnb</Output>
+      <Time>2014-06-17T14:25:40.5742689+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\3.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\3.xnb</Output>
+      <Time>2014-06-17T14:25:40.5792692+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\4.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\4.xnb</Output>
+      <Time>2014-06-17T14:25:40.6162713+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\5.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\5.xnb</Output>
+      <Time>2014-06-17T14:25:40.6212716+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\6.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\6.xnb</Output>
+      <Time>2014-06-17T14:25:40.6252719+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\7.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\7.xnb</Output>
+      <Time>2014-06-17T14:25:40.6332723+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\8.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\8.xnb</Output>
+      <Time>2014-06-17T14:25:40.6372725+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai kuta\level 1\9.jpg</Source>
+      <Name>puzzle\pantai kuta\level 1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai kuta\level 1\9.xnb</Output>
+      <Time>2014-06-17T14:25:40.6422728+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\1.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\1.xnb</Output>
+      <Time>2014-06-17T14:27:50.3236902+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\2.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\2.xnb</Output>
+      <Time>2014-06-17T14:27:50.3296905+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\3.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\3.xnb</Output>
+      <Time>2014-06-17T14:27:50.3336907+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\4.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\4.xnb</Output>
+      <Time>2014-06-17T14:27:50.338691+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\5.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\5.xnb</Output>
+      <Time>2014-06-17T14:27:50.3436913+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\6.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\6.xnb</Output>
+      <Time>2014-06-17T14:27:50.3616923+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\7.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\7.xnb</Output>
+      <Time>2014-06-17T14:27:50.3816935+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\8.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\8.xnb</Output>
+      <Time>2014-06-17T14:27:50.3856937+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\pantai raja ampat\level 1\9.jpg</Source>
+      <Name>puzzle\pantai raja ampat\level 1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\pantai raja ampat\level 1\9.xnb</Output>
+      <Time>2014-06-17T14:27:50.390694+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\1.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\1.xnb</Output>
+      <Time>2014-06-17T14:30:23.6144579+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\2.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\2.xnb</Output>
+      <Time>2014-06-17T14:30:23.6204582+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\3.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\3.xnb</Output>
+      <Time>2014-06-17T14:30:23.6254585+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\4.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\4.xnb</Output>
+      <Time>2014-06-17T14:30:23.6494599+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\5.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\5.xnb</Output>
+      <Time>2014-06-17T14:30:23.6544602+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\6.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\6.xnb</Output>
+      <Time>2014-06-17T14:30:23.6594605+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\7.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\7.xnb</Output>
+      <Time>2014-06-17T14:30:23.6644608+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\8.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\8.xnb</Output>
+      <Time>2014-06-17T14:30:23.6754614+09:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle\taman safari indonesia\level 1\9.jpg</Source>
+      <Name>puzzle\taman safari indonesia\level 1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\puzzle\taman safari indonesia\level 1\9.xnb</Output>
+      <Time>2014-06-17T14:30:23.6794616+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button nilai tertinggi.png</Source>
+      <Name>picture\button nilai tertinggi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button nilai tertinggi.xnb</Output>
+      <Time>2014-06-17T15:10:25.8648588+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button tentang.png</Source>
+      <Name>picture\button tentang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button tentang.xnb</Output>
+      <Time>2014-06-17T15:14:06.0894549+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\tulisan puzzle kecil.jpg</Source>
+      <Name>picture\tulisan puzzle kecil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tulisan puzzle kecil.xnb</Output>
+      <Time>2014-06-17T15:26:29.1129534+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button kembali.png</Source>
+      <Name>picture\button kembali</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button kembali.xnb</Output>
+      <Time>2014-06-17T15:33:16.8122725+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button berhenti.PNG</Source>
+      <Name>picture\button berhenti</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button berhenti.xnb</Output>
+      <Time>2014-06-17T15:45:31.846314+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\button lanjut.png</Source>
+      <Name>picture\button lanjut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\button lanjut.xnb</Output>
+      <Time>2014-06-17T15:53:48.0406947+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\tentang.png</Source>
+      <Name>picture\tentang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\tentang.xnb</Output>
+      <Time>2014-06-17T16:41:12.2728914+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\nilai tertinggi.png</Source>
+      <Name>picture\nilai tertinggi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\nilai tertinggi.xnb</Output>
+      <Time>2014-06-17T16:43:08.6805496+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\berhasil.png</Source>
+      <Name>picture\berhasil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\berhasil.xnb</Output>
+      <Time>2014-06-17T16:44:44.2130137+09:00</Time>
+    </Item>
+    <Item>
+      <Source>picture\counter pindah.png</Source>
+      <Name>picture\counter pindah</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\picture\counter pindah.xnb</Output>
+      <Time>2014-06-17T16:51:15.5283957+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{30E7790F-36CE-4527-9269-ED06DC1B402B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling IndonesiaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-16T18:50:54.0975307+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

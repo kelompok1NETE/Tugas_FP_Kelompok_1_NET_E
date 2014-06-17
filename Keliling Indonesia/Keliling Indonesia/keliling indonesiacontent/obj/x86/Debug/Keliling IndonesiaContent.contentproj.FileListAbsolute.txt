@@ -1,0 +1,3 @@
+D:\dropbox\Dropbox\kuliah\semester 6\NET\tugas\fpProject\Keliling Indonesia\Keliling Indonesia\Keliling IndonesiaContent\obj\x86\Debug\Keliling IndonesiaContent.contentprojResolveAssemblyReference.cache
+C:\Users\mokomo\Downloads\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling IndonesiaContent\obj\x86\Debug\Keliling IndonesiaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\Keliling Indonesia\Keliling Indonesia\Keliling Indonesia\Keliling IndonesiaContent\obj\x86\Debug\Keliling IndonesiaContent.contentprojResolveAssemblyReference.cache

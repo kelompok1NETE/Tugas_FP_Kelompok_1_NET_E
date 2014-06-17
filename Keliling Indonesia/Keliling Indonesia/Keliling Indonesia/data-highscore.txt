@@ -1,0 +1,8 @@
+﻿ten:200
+banitama:120
+tenu:20
+bani:50
+Satria:80
+Ryan:60
+komang:50
+Novandi:100
